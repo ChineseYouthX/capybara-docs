@@ -6,7 +6,7 @@ export default navbar([
   "/blog/",
   {
     text: "其他",
-    icon: "other",
+    icon: "lightbulb",
     children: [
       {
         text: "软考",

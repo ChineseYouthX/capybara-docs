@@ -3,10 +3,11 @@ home: true
 layout: BlogHome
 icon: blog
 title: Capybara X
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+heroImage: /logo.png
+bgImage: /assets/image/blog-bg.jpg
+heroText: Capybara X Blog
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 花有重开日 人无再少年
 projects:
   - icon: folder-open
     name: 项目名称

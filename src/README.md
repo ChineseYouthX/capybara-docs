@@ -3,7 +3,7 @@ home: true
 icon: house
 title: 主页
 heroImage: /logo.png
-bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
+bgImage: /assets/image/docs-bg.jpg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
