@@ -13,9 +13,11 @@ export default hopeTheme({
 
   logo: "/logo.png",
 
-  repo: "https://github.com/ChineseYouthX",
+  // repo: "https://github.com/ChineseYouthX",
 
   docsDir: "src",
+
+  fullscreen: true, // 全屏按钮
 
   // 导航栏
   navbar,
@@ -138,6 +140,13 @@ export default hopeTheme({
     },
 
     blog: true,
+
+    // 搜索
+    docsearch: {
+      // 你的选项
+      // appId, apiKey 和 indexName 是必填的
+    },
+    
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
     // pwa: {
     //   favicon: "/favicon.ico",
