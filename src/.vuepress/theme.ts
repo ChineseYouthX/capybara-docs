@@ -142,11 +142,18 @@ export default hopeTheme({
     blog: true,
 
     // 搜索
-    docsearch: {
-      // 你的选项
-      // appId, apiKey 和 indexName 是必填的
-    },
+    // docsearch: {
+    //   // 你的选项
+    //   // appId, apiKey 和 indexName 是必填的
+    //   appId: "ROLCGUA9Y4",
+    //   apiKey: "a4fb0f414b552b003fb0369c92551eb4",
+    //   indexName: "capybara-x"
+    // },
+
+    slimsearch: true,
     
+    // search: true,
+
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
     // pwa: {
     //   favicon: "/favicon.ico",
