@@ -4,10 +4,10 @@ layout: BlogHome
 icon: blog
 title: Capybara X
 heroImage: /logo.png
-bgImage: /assets/image/blog-bg.jpg
-heroText: Capybara X Blog
+# bgImage: /assets/image/blog-bg.jpg
+heroText: Capybara X
 heroFullScreen: true
-tagline: 花有重开日 人无再少年
+# tagline: 花有重开日 人无再少年
 projects:
   - icon: folder-open
     name: 项目名称

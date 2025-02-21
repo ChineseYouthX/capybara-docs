@@ -1,5 +1,6 @@
 ---
 title: 06 信息系统管理
+index: false
 ---
 
-## 介绍
+<Catalog />
