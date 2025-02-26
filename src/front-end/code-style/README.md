@@ -1,13 +1,7 @@
 ---
-title: Foo 功能
-icon: lightbulb
+title: 代码风格
+icon: file-pen
+index: false
 ---
 
-## 介绍
-
-我们支持 foo 功能，...
-
-## 详情
-
-- [ray](ray.md)
-- ...
+<Catalog />
